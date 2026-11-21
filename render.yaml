@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: sobusa-dash
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
